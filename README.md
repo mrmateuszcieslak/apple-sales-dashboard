@@ -19,3 +19,5 @@ Compare sales volume and revenue trends
 
 Technologies:
 Power BI, DAX, Power Query
+
+<img width="1162" height="648" alt="obraz" src="https://github.com/user-attachments/assets/51bcb083-13aa-4971-a02c-1f3808b1dfc5" />
